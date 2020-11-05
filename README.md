@@ -1,5 +1,5 @@
 # swapper
-Simplifies swapping rows in the database back and forth using initial array.
+Simplifies swapping rows in the database back and forth.
 
 It creates a UDF and a SP, flexible for any project.
 
